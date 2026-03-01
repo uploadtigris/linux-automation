@@ -6,19 +6,19 @@ Bash and Python scripts for Linux system administration and automation.
 
 ## Structure
 
-**system/**
+**system/**\
 Scripts for routine system administration tasks — health checks, user audits, and disk usage monitoring.
 
-**logs/**
+**logs/**\
 Python scripts for parsing and summarizing Linux log files.
 
-**services/**
+**services/**\
 Scripts for monitoring systemd services and automatically restarting failed ones.
 
-**backup/**
+**backup/**\
 Backup scripts with retention policies.
 
-**ansible/**
+**ansible/**\
 Ansible playbooks for configuration management and automated provisioning.
 
 ---
